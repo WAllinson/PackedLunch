@@ -32,7 +32,7 @@
 		<option value="">...</option>
 		<option value="ginger">Ginger</option>
 		<option value="digestive">Digestive</option>
-		<option value="fly">Shewsbury</option>
+		<option value="fly">Shrewsbury</option>
 	</select><br>
 	Chocolate:<select name="chocolate">
 		<option value="">...</option>
